@@ -1,1 +1,1 @@
-# mentor-cycle-coind-fe
+# mentor-cycle-coins-fe
